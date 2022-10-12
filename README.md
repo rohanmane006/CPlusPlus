@@ -1,6 +1,6 @@
 # CPlusPlus
 
-# CPP
+# CPP [ Get Free Hacktoberfest T-shirt ] contribute!
 
 
 <h1 align="center"> <img src= "https://octodex.github.com/images/original.png" width= "40" /> HacktoberFest Accepted 2022 <img src= "https://octodex.github.com/images/original.png" width= "40" /> </h1>
